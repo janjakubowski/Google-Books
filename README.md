@@ -38,5 +38,5 @@ Must use technologies:
 
 ## My Portfolio 
 
-* [See how it works for yourself, deployed on heroku]()
+* [See how it works for yourself, deployed on heroku](https://arcane-plains-23326.herokuapp.com/)
 * [THE CODE: see how the magic happens](https://github.com/janjakubowski/Google-Books.git)
